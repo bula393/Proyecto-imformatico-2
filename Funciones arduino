@@ -1,0 +1,12 @@
+/* Para calcularel ultrasonido en cm */
+void calculo_distancia(){
+digitalWrite(trigger,LOW); //Make trigger pin 0 at start
+delay(1);
+digitalWrite(trigger,HIGH);
+delayMicroseconds(10); //make trigger pin high for 10us to start sending the pulses
+digitalWrite(trigger,LOW);
+
+duration=pulseIn(echo, HIGH);	//Saves the time the waves take to come back
+distance=duration*0.017; //((340*100)10e6)2
+
+}
