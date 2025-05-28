@@ -1,3 +1,7 @@
+Detalles de proyecto: Nuestro proyecto trata sobre un aparato para limpiar/lustrar el suelo, los componentes que tiene son:
+un arduino, unos sensores de ultrasonido, motores, tendra una base de datos en la nube, un modulo wifi/ethernett 
+
+
 Requerimientos funcionales
     • El sistema deberá a partir del recorrido del dispositivo , generar un mapa de la habitación
     • El sistema deberá a través, a través de dispositivos  un sensor ultrasonido, esquivar obstáculos
@@ -6,10 +10,11 @@ Requerimientos funcionales
     • El sistema deberá poder informar cuando el porcentaje de limpieza hay llegado a 100
     • El usuario deberá poder guardar en la nube los mapa de las habitaciones escaneadas
     • El usuario deberá poder eligir el mapa de un a aplicación previamente escaneada para mejorar el rendimiento y que pueda legar directamente desde su estación de carga a la habitación        
+      Posibles requerimientos funcionales
     • El usuario deberá poder prender el dispositivo a distancia
     • El sistema deberá poder configurase para que funcione automáticamente a un cierto horario
 Requerimientos no funcionales
     • El sistema debera ser fiable
-    • El sistema debera ser eficaf
+    • El sistema debera ser eficaz
     • El sistema debera ser mantenible 
     • El sistema debera ser facil de operar 
