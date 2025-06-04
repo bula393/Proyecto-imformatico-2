@@ -6,12 +6,12 @@ Requerimientos funcionales
     • El sistema deberá a partir del recorrido del dispositivo , generar un mapa de la habitación
     • El sistema deberá a través, a través de dispositivos  un sensor ultrasonido, esquivar obstáculos
     • El dispositivo podrá auto dirigirse recorriendo toda la habitación hasta volver al lugar de origen
-
+        debera poder prenderse a distancia
+    • El sistema deberá poder configurase para que funcione automáticamente a un cierto horario.
    
       Posibles requerimientos funcionales
     • El sistema deberá poder mostrar el porcentaje del cuarto que ha limpiado a través del mapa previamente hecho.
     • El sistema deberá poder informar cuando el porcentaje de limpieza hay llegado a 100
-    • El sistema deberá poder configurase para que funcione automáticamente a un cierto horario.
     • El usuario deberá poder guardar en la nube los mapa de las habitaciones escaneadas
     • El usuario deberá poder eligir el mapa de un a aplicación previamente escaneada para mejorar el rendimiento y que pueda legar directamente desde su estación de carga a la habitación     
 Requerimientos no funcionales
