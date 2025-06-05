@@ -1,1 +1,1 @@
-# Proyecto-imformatico-2
+# Proshecto-imformatiko-2
