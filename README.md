@@ -3,9 +3,10 @@ Sensor Ultrasonico HC-SR04 x3
 Sensor IR x1
 Botones pulsadores x2
 Boton interruptor x1
+esp 32
 Bateria +7v
 Cables
-Material para la estructura (en mi caso carton y acrilico)
+Material para la estructura (en mi caso carton y )
 Driver para motores L298n x1
 Modulo Step-Up x1
 Motor reductor con rueda x2
